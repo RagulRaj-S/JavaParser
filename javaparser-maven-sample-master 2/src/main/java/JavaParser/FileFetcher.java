@@ -1,5 +1,8 @@
 package JavaParser;
 
+import java.io.File;
+import java.util.Scanner;
+
 public class FileFetcher {
     File sourceFile;
     String filePath;
