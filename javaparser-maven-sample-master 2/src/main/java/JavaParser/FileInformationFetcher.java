@@ -31,7 +31,6 @@ public class FileInformationFetcher {
         return m.matches();
     }
 
-
     public static void main(String[] args) {
         Parser parser;
        // FileInfo result;
