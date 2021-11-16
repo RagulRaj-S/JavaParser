@@ -17,7 +17,7 @@ public class FileInformationFetcher {
 
         // If the string is empty
         // return false
-        if (url == null) {
+        if(url == null){
             return false;
         }
 
